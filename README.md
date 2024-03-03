@@ -20,7 +20,7 @@ Les données utilisées pour l'entraînement et la validation des modèles provi
 
 ### JuriBERT
 
-- **Source** : JuriBERT est un modèle NLP développé en interne et spécifiquement entraîné sur des textes juridiques. Ce modèle n'est pas public et est utilisé exclusivement dans le cadre de ce projet.
+- **Source** : JuriBERT est un modèle NLP développé par http://nlp.polytechnique.fr/resources#juribert et spécifiquement entraîné sur des textes juridiques. Ce modèle n'est pas public et est utilisé exclusivement dans le cadre de ce projet.
 - **Utilisation** : Le notebook `Classif_JuriBERT.ipynb` détaille comment nous entraînons et utilisons JuriBERT pour classer les documents juridiques.
 
 ## Structure des Notebooks
